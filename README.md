@@ -29,7 +29,7 @@ Course schedule
 |   11   	|   Tuesday, November 3, 2026  	|            Decidability CFG           	|                     	|        	|
 |   11   	|  Thursday, November 5, 2026  	|             Undecidablity             	|                     	|        	|
 |   12   	|  Tuesday, November 10, 2026  	|               Reductions              	|                     	|        	|
-|   12   	|  Thursday, November 12, 2026 	|             Veteran's Day             	|                     	|        	|
+|   12   	|  Thursday, November 12, 2026 	|                                        	|                     	|        	|
 |   13   	|  Tuesday, November 17, 2026  	|   Reductions via com history, review  	|                     	|        	|
 |   13   	|  Thursday, November 19, 2026 	|           Test 2 (Tentative)          	|                     	|        	|
 |   14   	|  Tuesday, November 24, 2026  	|        Fall break - no classes        	|                     	|        	|
