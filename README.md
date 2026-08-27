@@ -11,7 +11,7 @@ Course schedule
 |    2   	|  Tuesday, September 1, 2026  	|            Basic Structures           	|                     	|        	|
 |    2   	|  Thursday, September 3, 2026 	|    Functions, relations and proofs    	|                     	|        	|
 |    3   	|  Tuesday, September 8, 2026  	|       DFA and Regular languages       	|                     	|        	|
-|    3   	| Thursday, September 10, 2026 	|       DFA and Regular languages       	|                     	|        	|
+|    3   	| Thursday, September 10, 2026 	|       Gianforte Hall opening (DFA and Regular languages)       	|                     	|        	|
 |    4   	|  Tuesday, September 15, 2026 	|                  NFA                  	|                     	|        	|
 |    4   	| Thursday, September 17, 2026 	|                DFA=NFA                	|                     	|        	|
 |    5   	|  Tuesday, September 22, 2026 	|                  NFA                  	|                     	|        	|
