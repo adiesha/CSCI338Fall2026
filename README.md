@@ -7,7 +7,7 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 Course schedule
 | Week # 	|             Date             	|             Lecture Topic             	| Recommended reading 	| HW due 	|
 |:------:	|:----------------------------:	|:-------------------------------------:	|:-------------------:	|:------:	|
-|    1   	|   Thursday, August 27, 2026  	|       Course overview and basics      	|                     	|        	|
+|    1   	|   Thursday, August 27, 2026  	|       [Course overview](https://github.com/adiesha/CSCI338Fall2026/blob/master/Notes/Lecture%2001/Introduction.pdf), [Review Part 01](https://github.com/adiesha/CSCI338Fall2026/blob/master/Notes/Lecture%2001/ppts/Review_part_1.pdf)      	|      Ch 0            	|        	|
 |    2   	|  Tuesday, September 1, 2026  	|            Basic Structures           	|                     	|        	|
 |    2   	|  Thursday, September 3, 2026 	|    Functions, relations and proofs    	|                     	|        	|
 |    3   	|  Tuesday, September 8, 2026  	|       DFA and Regular languages       	|                     	|        	|
